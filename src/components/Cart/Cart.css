@@ -1,0 +1,13 @@
+.cart {
+  font-size: 40px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.button {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.opcion {
+  margin-top: 20px;
+}

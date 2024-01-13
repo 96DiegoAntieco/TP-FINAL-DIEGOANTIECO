@@ -1,0 +1,39 @@
+.Card {
+  width: 500px;
+  height: auto;
+}
+
+.itemFooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.controls {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px;
+  color: white;
+  border: 1px solid rgba(87, 86, 86, 0.541);
+  background-color: hsla(0, 0%, 43%, 0.301);
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: hsl(348, 54%, 22%);
+  color: #fff;
+  cursor: pointer;
+}
+
+.controls h3 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
